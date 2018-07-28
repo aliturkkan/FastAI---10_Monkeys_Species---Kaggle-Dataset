@@ -1,10 +1,10 @@
-### FASTAI İLE MAYMUN RESİMLERİ SINIFLANDIRMASI
+# FASTAI İLE MAYMUN RESİMLERİ SINIFLANDIRMASI
 
 ## Gerekli Kurulumların Yapılması
 
-# FastAI
-# Pytorch
-# 10-Monkey-Species Dataset, Kaggle.com
+### FastAI
+### Pytorch
+### 10-Monkey-Species Dataset, Kaggle.com
 
 ## Veri Arttırımı
 
